@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ROOT</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>kitchen0</string>
+			<key>description</key>
+			<string>description - kitchen 0</string>
+			<key>image</key>
+			<string>Item0</string>
+			<key>logo</key>
+			<string>logo0</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>kitchen1</string>
+			<key>description</key>
+			<string>description - kitchen 1</string>
+			<key>image</key>
+			<string>Item1</string>
+			<key>logo</key>
+			<string>logo1</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>kitchen2</string>
+			<key>description</key>
+			<string>description - kitchen 2</string>
+			<key>image</key>
+			<string>Item2</string>
+			<key>logo</key>
+			<string>logo2</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>kitchen3</string>
+			<key>description</key>
+			<string>description - kitchen 3</string>
+			<key>image</key>
+			<string>Item3</string>
+			<key>logo</key>
+			<string>logo3</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>kitchen4</string>
+			<key>description</key>
+			<string>description - kitchen 4</string>
+			<key>image</key>
+			<string>Item4</string>
+			<key>logo</key>
+			<string>logo4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>kitchen5</string>
+			<key>description</key>
+			<string>description - kitchen 5</string>
+			<key>image</key>
+			<string>Item5</string>
+			<key>logo</key>
+			<string>logo5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>kitchen6</string>
+			<key>description</key>
+			<string>description - kitchen 6</string>
+			<key>image</key>
+			<string>Item6</string>
+			<key>logo</key>
+			<string>logo6</string>
+		</dict>
+	</array>
+</dict>
+</plist>
